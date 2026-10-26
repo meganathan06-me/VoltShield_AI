@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # VoltShield AI — End-to-End Starter
 
 A beginner-friendly prototype for EV charging-bay monitoring.
@@ -124,3 +125,6 @@ ai-service/    Optional FastAPI + Isolation Forest example
 - Dashboard can't reach API: ensure `frontend/.env` has `VITE_API_URL=http://localhost:5000`.
 - MQTT not connecting: verify broker address/port and credentials; use the computer's LAN IP from ESP32.
 - CORS error: update `CLIENT_ORIGIN` in backend `.env` to the frontend origin.
+=======
+# VoltShield_AI
+>>>>>>> 18e1c66bd327687c32f30f6866d287c4d989ef58
