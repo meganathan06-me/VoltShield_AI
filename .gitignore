@@ -1,0 +1,26 @@
+
+# Dependencies
+node_modules/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Frontend build output
+dist/
+
+# Python virtual environments and cache
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Logs
+*.log
+npm-debug.log*
+
+# IDE and operating system files
+.vscode/
+.DS_Store
+Thumbs.db
